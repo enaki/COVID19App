@@ -16,7 +16,7 @@ The major functions the Covid19App must perform for the end user are the followi
 ## User Interface
 ### Map View
 
-![Map View](https://github.com/ppetrica/ProiectIP/blob/master/Documentation/ss/map_view.png)
+![Map View](https://github.com/enaki/ProiectIP/blob/master/Documentation/ss/map_view.png)
 
 
 This view (tab) is global map which graphically indicates a general situation about total cases confirmed.
@@ -44,7 +44,7 @@ You can click on any country for more information. When you do that, the country
 
 ### Global View
 
-![Global View](https://github.com/ppetrica/ProiectIP/blob/master/Documentation/ss/global_view.png)
+![Global View](https://github.com/enaki/ProiectIP/blob/master/Documentation/ss/global_view.png)
 
 This view (tab) is chart which graphically indicates a general situation about total cases confirmed grouped by continent.
 
@@ -63,7 +63,7 @@ On the Y-axis is number of people affected by virus.
 
 ### Country View
 
-![Country View](https://github.com/ppetrica/ProiectIP/blob/master/Documentation/ss/country_view.png)
+![Country View](https://github.com/enaki/ProiectIP/blob/master/Documentation/ss/country_view.png)
 
 
 This view (tab) is chart which graphically indicates a country situation.
@@ -92,27 +92,27 @@ On the Y-axis is number of people affected by virus. By adding death, active and
 
 ## ER Diagram
 
-![ER Diagram](https://github.com/ppetrica/ProiectIP/blob/master/Documentation/database/COVID_database_relational_model.png)
+![ER Diagram](https://github.com/enaki/ProiectIP/blob/master/Documentation/database/COVID_database_relational_model.png)
 
 
 ## Class Diagram
 
-![Class Diagram](https://github.com/ppetrica/ProiectIP/blob/master/Documentation/diagrams/images/class_diagram.png)
+![Class Diagram](https://github.com/enaki/ProiectIP/blob/master/Documentation/diagrams/images/class_diagram.png)
 
 
 ## Activity Diagram
 
-![Activity Diagram](https://github.com/ppetrica/ProiectIP/blob/master/Documentation/diagrams/images/COVID-Activity-Diagram.png)
+![Activity Diagram](https://github.com/enaki/ProiectIP/blob/master/Documentation/diagrams/images/COVID-Activity-Diagram.png)
 
 
 ## Sequence Diagram
 
-![Sequence Diagram](https://github.com/ppetrica/ProiectIP/blob/master/Documentation/diagrams/images/COVID-Sequence-Diagram.png)
+![Sequence Diagram](https://github.com/enaki/ProiectIP/blob/master/Documentation/diagrams/images/COVID-Sequence-Diagram.png)
 
 
 ## Use-Case Diagram
 
-![Use-Case Diagram](https://github.com/ppetrica/ProiectIP/blob/master/Documentation/diagrams/images/COVID-UseCase-Diagram.png)
+![Use-Case Diagram](https://github.com/enaki/ProiectIP/blob/master/Documentation/diagrams/images/COVID-UseCase-Diagram.png)
 
 
 ## Notes
